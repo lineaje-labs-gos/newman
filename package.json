@@ -1,12 +1,12 @@
 {
   "name": "newman",
-  "version": "4.6.1",
+  "version": "4.6.1-lineaje-01",
   "description": "Command-line companion utility for Postman",
   "homepage": "https://github.com/postmanlabs/newman",
   "bugs": "https://github.com/postmanlabs/newman/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/postmanlabs/newman.git"
+    "url": "https://github.com/lineaje-labs-gos/newman"
   },
   "keywords": [
     "newman",
@@ -38,6 +38,12 @@
   },
   "author": "Postman Labs <help@getpostman.com> (=)",
   "license": "Apache-2.0",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "dependencies": {
     "@postman/csv-parse": "4.0.2",
     "async": "3.2.0",
